@@ -1,5 +1,5 @@
 # Collection of large datasets for Vietnamese LLM Finetuning.
-These datasets have been translated into Vietnamese and created by our [5CD team] (<https://huggingface.co/5CD-AI>), hoping to assist everyone.
+These datasets have been translated into Vietnamese and created by our [5CD team](<https://huggingface.co/5CD-AI>), hoping to assist everyone.
 
 ## Question Datasets
 
