@@ -1,6 +1,6 @@
 # Collection of large datasets for Vietnamese LLM Finetuning
 
-These datasets have been translated into Vietnamese and created by our [5CD team](https://huggingface.co/5CD-AI), to support various natural language processing tasks. I hope it is helpful!
+These datasets have been translated into Vietnamese and created by our team, to support various natural language processing tasks. I hope it is helpful!
 
 ## Question Datasets
 
