@@ -6,12 +6,6 @@ These datasets have been translated into Vietnamese and created by our [5CD team
 
 ### Table of Contents
 
-- [Vietnamese-microsoft-orca-math-word-problems-200k-gg-translated](#)
-  - Tasks: Text Generation, Question Answering
-  - Languages: Vietnamese, English
-  - Size: 200k rows
-  - Description: This dataset contains math word problems translated into Vietnamese, suitable for text generation and question-answering tasks.
-
 - [Vietnamese-argilla-OpenHermesPreferences-66k-gg-translated](#)
   - Tasks: Text Generation, Question Answering
   - Languages: Vietnamese, English
@@ -49,23 +43,30 @@ These datasets have been translated into Vietnamese and created by our [5CD team
   - Size: 50k rows
   - Description: A multi-turn chat dataset with conversations sourced from the Tiki platform, translated into Vietnamese.
 
-## Other Datasets
-
 - [viet-ecommerce-alpaca](#)
   - Languages: Vietnamese
   - Size: 69.3k rows
   - Description: A dataset related to e-commerce activities in Vietnamese.
 
+## CoT Datasets
+
 - [Vietnamese-nampdn-ai-tiny-webtext-gg-translated](#)
   - Tasks: Question Answering, Text Generation
   - Languages: Vietnamese, English
   - Size: 1.85M rows
-  - Description: A collection of web text data translated into Vietnamese, suitable for question answering and text generation tasks.
+  - Description: A collection of web text data translated into Vietnamese, suitable for question-answering and text generation tasks.
+
+## Math Datasets
 
 - [Vietnamese-395k-meta-math-MetaMathQA-gg-translated](#)
   - Tasks: Question Answering
   - Languages: Vietnamese, English
   - Size: 395k rows
   - Tags: math, math-qa, meta-math
-  - Description: A large dataset containing math-related questions translated into Vietnamese, designed for question answering tasks.
+  - Description: A large dataset containing math-related questions translated into Vietnamese, designed for question-answering tasks.
 
+- [Vietnamese-microsoft-orca-math-word-problems-200k-gg-translated](#)
+  - Tasks: Text Generation, Question Answering
+  - Languages: Vietnamese, English
+  - Size: 200k rows
+  - Description: This dataset contains math word problems translated into Vietnamese, suitable for text generation and question-answering tasks.
