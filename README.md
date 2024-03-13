@@ -60,6 +60,12 @@ These datasets have been translated into Vietnamese and created by our team, to 
   - Size: 1.5M rows
   - Description: A collection of Kaist CoT data translated into Vietnamese, suitable for question-answering and text-generation tasks.
 
+ - [Vietnamese-mabryCodes-tiny-cot-alpaca-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-mabryCodes-tiny-cot-alpaca-gg-translated)
+  - Tasks: Question Answering, Text Generation
+  - Languages: Vietnamese, English
+  - Size: 500k rows
+  - Description: A collection of GOOD CoT data translated into Vietnamese, suitable for question-answering and text-generation tasks.
+
 ## DPO Datasets
 
 - [Vietnamese-beyond-rlhf-reward-single-round-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-beyond-rlhf-reward-single-round-gg-translated)
