@@ -55,6 +55,12 @@ These datasets have been translated into Vietnamese and created by our [5CD team
   - Languages: Vietnamese, English
   - Size: 1.85M rows
   - Description: A collection of web text data translated into Vietnamese, suitable for question-answering and text generation tasks.
+ 
+- [Vietnamese-1m5-kaist-CoT-gg-translated-unrefined](#)
+  - Tasks: Question Answering, Text Generation
+  - Languages: Vietnamese, English
+  - Size: 1.5M rows
+  - Description: A collection of CoT data translated into Vietnamese, suitable for question-answering and text-generation tasks.
 
 ## Math Datasets
 
