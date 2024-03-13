@@ -88,9 +88,16 @@ These datasets have been translated into Vietnamese and created by our team, to 
   - Size: 395k rows
   - Tags: math, math-qa, meta-math
   - Description: A large dataset containing math-related questions translated into Vietnamese, designed for question-answering tasks.
+ 
+- [Vietnamese-nvidia-OpenMathInstruct-1-50k-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-nvidia-OpenMathInstruct-1-50k-gg-translated)
+  - Tasks: Question Answering
+  - Languages: Vietnamese, English
+  - Size: 50k rows
+  - Tags: math, math-qa, meta-math
+  - Description: A large dataset containing math-related questions translated into Vietnamese, designed for question-answering tasks.
 
 - [Vietnamese-microsoft-orca-math-word-problems-200k-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-microsoft-orca-math-word-problems-200k-gg-translated)
-  - Tasks: Text Generation, Question Answering
+  - Tasks: Question Answering
   - Languages: Vietnamese, English
   - Size: 200k rows
-  - Description: This dataset contains math word problems translated into Vietnamese, suitable for text generation and question-answering tasks.
+  - Description: This dataset contains math word problems translated into Vietnamese, suitable for question-answering tasks.
