@@ -6,12 +6,6 @@ These datasets have been translated into Vietnamese and created by our [5CD team
 
 ### Table of Contents
 
-- [Vietnamese-argilla-OpenHermesPreferences-66k-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-argilla-OpenHermesPreferences-66k-gg-translated)
-  - Tasks: Text Generation, Question Answering
-  - Languages: Vietnamese, English
-  - Size: 66k rows
-  - Description: A dataset translated into Vietnamese, focusing on text generation and question-answering tasks.
-
 ## Image-to-Text Datasets
 
 - [Vietnamese-LLaVA-Instruct-150K-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-LLaVA-Instruct-150K-gg-translated)
@@ -47,6 +41,12 @@ These datasets have been translated into Vietnamese and created by our [5CD team
   - Languages: Vietnamese
   - Size: 69.3k rows
   - Description: A dataset related to e-commerce activities in Vietnamese.
+ 
+- [Vietnamese-argilla-OpenHermesPreferences-66k-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-argilla-OpenHermesPreferences-66k-gg-translated)
+  - Tasks: Text Generation, Question Answering
+  - Languages: Vietnamese, English
+  - Size: 66k rows
+  - Description: A dataset translated into Vietnamese, focusing on text generation and question-answering tasks.
 
 ## CoT Datasets
 
