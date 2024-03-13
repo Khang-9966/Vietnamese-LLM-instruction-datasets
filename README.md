@@ -2,8 +2,6 @@
 
 These datasets have been translated into Vietnamese and created by our team, to support various natural language processing tasks. I hope it is helpful!
 
-## Question Datasets
-
 ### Table of Contents
 
 ## Image-to-Text Datasets
