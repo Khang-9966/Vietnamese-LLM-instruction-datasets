@@ -6,6 +6,12 @@ These datasets have been translated into Vietnamese and created by our team, to 
 
 ## Image-to-Text Datasets
 
+- [ShareGPT4V](https://huggingface.co/datasets/5CD-AI/Vietnamese-Lin-Chen-ShareGPT4V-gg-translated)
+  - Tasks: Visual Question Answering, Question Answering
+  - Languages: Vietnamese, English
+  - Size: 102k rows
+  - Description: This dataset comprises questions and answers, translated into Vietnamese, suitable for visual question answering and general question answering tasks.
+
 - [Vietnamese-LLaVA-Instruct-150K-gg-translated](https://huggingface.co/datasets/5CD-AI/Vietnamese-LLaVA-Instruct-150K-gg-translated)
   - Tasks: Visual Question Answering, Question Answering
   - Languages: Vietnamese, English
